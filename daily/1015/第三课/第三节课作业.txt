@@ -1,0 +1,50 @@
+1. 执行代码 len("Python")，输出结果是？ 
+A. 6
+B. 8
+C. "Python"
+D. 报错
+
+2. 下面代码输出结果是？   
+---------------------------
+score = 75
+if score >=90:
+    print("优秀")
+elif score >=60:
+    print("及格")
+else:
+    print("不及格")
+---------------------------
+A. 优秀
+B. 及格
+C. 不及格
+D. 75
+
+3.程序运行输出为  
+---------------------------
+a = True
+b = False
+c = not b
+result = a and c
+print(result)
+---------------------------
+程序运行输出为？
+A. 0
+B. False
+C. True
+D. 报错
+
+4.阅读代码，程序输出是   
+---------------------------
+weather = True
+holiday = False
+res = weather or holiday
+print(res)
+---------------------------
+A. True B. False C. 1 D. 报错
+
+5. 关于取模运算符 %，下面代码输出结果为   
+---------------------------
+num = 9
+print(num % 2 == 0)
+---------------------------
+A. 0 B. True C. 1 D.False
